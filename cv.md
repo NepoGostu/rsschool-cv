@@ -8,6 +8,7 @@ My contacts:
 mail:andruavanshuls@gmail.com  
 [telegramm](https://t.me/Van_shuls)  
 [LinkedIn](https://www.linkedin.com/in/zuev-andrey/)  
+[Discord](NepoGostu#5809) 
    
    
 About myself:
