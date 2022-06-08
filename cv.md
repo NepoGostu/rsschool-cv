@@ -20,7 +20,7 @@ I have experience in developing a small SPA project on React as part of a team.
 Skills:
 -------
 Skill                                         |   Name 
-----------------------------------------------|:-------------------------------: 
+:--------------------------------------------:|:-------------------------------: 
 Programming language                          |   JS\TS 
 Frameworks                                    |   WebStorm 
 Methodology                                   |   БЭМ, DRY, KISS , SOLID , TDD
