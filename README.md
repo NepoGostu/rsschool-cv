@@ -1,1 +1,1 @@
-# rsschool-cv
+https://NepoGostu.github.io/rsschool-cv/cv
